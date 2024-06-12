@@ -1,0 +1,50 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    background-color: white;
+    border-radius: 10px;
+    overflow: hidden;.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.title {
+    color: grey;
+    font-size: 18px;
+}
+
+    text-align: center;
+}
+
+.card img {
+    width: 100%;
+    height: auto;
+}
+
+.card h1 {
+    font-size: 24px;
+    margin: 16px 0 8px 0;
+}
+
+.card .title {
+    color: grey;
+    font-size: 18px;
+    margin: 0 0 8px 0;
+}
+
+.card p {
+    margin: 8px 0;
+}
